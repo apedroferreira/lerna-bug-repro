@@ -1,0 +1,11 @@
+{
+  "name": "package-a",
+  "version": "1.0.0",
+  "scripts": {
+    "repro": "tsup index.ts"
+  },
+  "type": "module",
+  "dependencies": {
+    "lerna": "^8.1.2"
+  }
+}
